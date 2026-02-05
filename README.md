@@ -162,8 +162,8 @@ A note-taking app that captures images, extracts text using OCR, and converts no
 
 ## 🤝 Let’s Connect
 
+- **GitHub:** https://github.com/Arzz
 - **LinkedIn:** https://www.linkedin.com/in/arzzz/
 - **Stack Overflow:** https://stackoverflow.com/users/5157421/arjun-vyas
-- **GitHub:** https://github.com/Arzz
 
 If you want to collaborate, discuss ideas, or just say hi — I’m always open to meaningful conversations 🚀
