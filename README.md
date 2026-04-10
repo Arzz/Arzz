@@ -2,7 +2,7 @@
 
 🚀 Senior Software Engineer (Mobile) | Android Specialist | Tech / Team Lead  
 
-What started as curiosity for mobile apps turned into a **9+ year journey of building Android experiences used by thousands across fintech, e-commerce, IoT, and consumer platforms**.
+What started as curiosity for mobile apps turned into a **8+ year journey of building Android experiences used by thousands across fintech, e-commerce, IoT, and consumer platforms**.
 
 I specialize in **Android development with Java & Kotlin**, modern **Jetpack architecture**, and **clean, scalable system design**. I enjoy turning complex, real-world problems into elegant architectures and intuitive user experiences.
 
@@ -26,7 +26,7 @@ Alongside engineering, I’m deeply interested in **startups, product innovation
 ## 🧭 Career Timeline
 
 ### 🚀 Senior Software Engineer (Mobile) / Tech Lead  
-**2019 – Present**
+**Oct, 2019 – Feb, 2026**
 
 - Building **fintech & payment platforms** with real-world scale  
 - Worked on **wallets, QR payments, POS integration, cash management systems**
@@ -40,7 +40,7 @@ Lov.Cash · Smart Safe · Klik.Klak
 ---
 
 ### 💼 Software Engineer (Android)  
-**2016 – 2019**
+**Sep, 2017 – Nov, 2018**
 
 - Built and maintained **e-commerce, restaurant, and marketplace apps**
 - Developed **customer apps + manager/admin apps**
@@ -53,7 +53,7 @@ Sam’s Coffee · Facilici · Honest Greens · Cera CSP
 ---
 
 ### 🔧 Android Developer  
-**2014 – 2016**
+**Aug, 2016 – Sep, 2017**
 
 - Developed Android apps across **social, utility, and productivity domains**
 - Worked extensively with **Java, XML, SQLite, JSON**
@@ -61,16 +61,7 @@ Sam’s Coffee · Facilici · Honest Greens · Cera CSP
 - Delivered multiple apps as a **solo developer**
 
 **Key Projects:**  
-Photo Notes · OSR GAI · Watch Me · Engage
-
----
-
-### 🌱 Early Career & Learning Phase  
-**2013 – 2014**
-
-- Explored Android fundamentals and app architecture
-- Built experimental and client-based apps
-- Actively contributed to **Stack Overflow** and developer communities
+Rockaloo, Photo Notes · OSR GAI · Watch Me · Engage
 
 ---
 
@@ -162,8 +153,8 @@ A note-taking app that captures images, extracts text using OCR, and converts no
 
 ## 🤝 Let’s Connect
 
-- **GitHub:** https://github.com/Arzz
 - **LinkedIn:** https://www.linkedin.com/in/arzzz/
+- **GitHub:** https://github.com/Arzz
 - **Stack Overflow:** https://stackoverflow.com/users/5157421/arjun-vyas
 
 If you want to collaborate, discuss ideas, or just say hi — I’m always open to meaningful conversations 🚀
